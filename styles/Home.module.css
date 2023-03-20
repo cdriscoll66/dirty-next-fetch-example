@@ -276,3 +276,12 @@
     transform: rotate(0deg);
   }
 }
+
+
+ul.list {
+  list-style: none;
+}
+
+ul.list li {
+  margin-bottom: 4rem;
+}
