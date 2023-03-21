@@ -285,3 +285,10 @@ ul.list {
 ul.list li {
   margin-bottom: 4rem;
 }
+
+.links {
+  display: flex;
+  gap: 25px;
+  list-style: none;
+
+}
