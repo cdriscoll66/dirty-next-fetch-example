@@ -3,7 +3,7 @@ import { fetchAPI } from "../../lib/api"
 
 const Post = ({ post }) => {
     return (
-        <div>Hi I'm here</div>    )
+        <div>Hi I'm here!</div>    )
 }
 
 export async function getStaticPaths() {
